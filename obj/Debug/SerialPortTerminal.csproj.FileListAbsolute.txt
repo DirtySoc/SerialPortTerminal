@@ -1,0 +1,15 @@
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojAssemblyReference.cache
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.cache
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.CoreCompileInputs.cache
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\dwillingham\Documents\repos\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
